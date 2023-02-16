@@ -1,3 +1,6 @@
+## Archived
+
+This repo was just used for supposedly replication repo for an [issue](https://github.com/laravel/framework/issues/45961) reported to [Laravel](https://github.com/laravel/framework). The issue is now closed, and the problem was just a false alarm. Per docs `Any additional column modifiers must be called before the constrained method`.
 ## Environment
 
 OS: Pop!_OS 22.04 LTS x86_64
